@@ -1,0 +1,18 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing:border-box
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+
+input{
+    display: block;
+    height: 30px;
+}
+
+.Inputs{
+    display: flex;
+    flex-direction: column;
+}
